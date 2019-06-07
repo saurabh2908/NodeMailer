@@ -8,14 +8,14 @@
 
 ## The Google strategy allows users to sign in to a web application using their Google account. Google used to support OpenID      internally, but it now works based on OpenID Connect and supports oAuth 1.0 and oAuth 2.0.
 
-## How To use my application
+# How To use my application
 
-# Setup for Passport  
+## Setup for Passport  
  
  1. npm install
  2. genrate your client ID and KEY from https://console.cloud.google.com
  3. Paste your key and ID in code.
 
-# Setup for Ndemailer
+## Setup for Ndemailer
 
    Just go in utils/mail.js and paste your emailID where i mark in code.
