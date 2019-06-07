@@ -16,6 +16,6 @@
  2. genrate your client ID and KEY from https://console.cloud.google.com
  3. Paste your key and ID in code.
 
-## Setup for Ndemailer
+## Setup for Nodemailer
 
    Just go in utils/mail.js and paste your emailID where i mark in code.
